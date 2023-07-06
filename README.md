@@ -19,6 +19,9 @@ The outputs in the outputs directory contain the necessary information to have a
 the PCBs and do SMT and manual assembly.  Note that the PCB must be 2.0mm thick, have ENIG plating, and have edge plating.
 
 ## Assembly
+Steps 1 through 3 can be done by the PCB fab/assembly supplier (we've used PCBWay, but there are many similar ones), while
+steps 4-8 are done on the specific Framework Laptop.
+
 1. Strip 3mm from each side of 60mm long, 30 AWG solid wire.
 2. Solder one side of the wire to the pad on the top of the PCB that is labelled 17.6V
 3. Apply a 10mm diameter disc of kapton tape on the top of the PCB, covering the pad and SMT parts
