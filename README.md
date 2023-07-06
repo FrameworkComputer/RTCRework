@@ -1,7 +1,7 @@
 # RTC Rework (Testing)
 ** Note that this rework is still in testing, and the files are a release candidate version **
 
-![image](https://github.com/FrameworkComputer/RTCRework/assets/28994301/d2e7ae3a-4f6a-4719-8a7b-4d664b423479)
+![image](https://github.com/FrameworkComputer/RTCRework/assets/28994301/743a683b-725c-4fce-906b-da8bf186ab0a)
 
 This is a "fake" ML1220 RTC Battery that can be inserted into an 11th Gen Intel Core Framework Laptop Mainboard as a
 replacement for a real ML1220.  There is a known issue on 11th Gen where RTC battery voltage dropping below a certain
@@ -28,9 +28,7 @@ the PCBs and do SMT and manual assembly.  Note that the PCB must be 2.0mm thick,
 7. Carefully insert the PCB into the RTC battery socket on the Mainboard
 8. Place the black mylar back on the Mainboard
 
-![rtc_rework_assembly](https://github.com/FrameworkComputer/RTCRework/assets/28994301/ce1548cd-273c-47ca-984c-90aab5656097)
-
-
+![rtc_rework_assembly](https://github.com/FrameworkComputer/RTCRework/assets/28994301/ef47ba6d-104f-4b66-9648-7e397f705647)
 
 ## License
 RTC Rework © 2023 by Framework Computer Inc is licensed under CC BY 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/
