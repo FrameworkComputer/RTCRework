@@ -20,16 +20,13 @@ the PCBs and do SMT and manual assembly.  Note that the PCB must be 2.0mm thick,
 
 ## Assembly
 Steps 1 through 3 can be done by the PCB fab/assembly supplier (we've used PCBWay, but there are many similar ones), while
-steps 4-8 are done on the specific Framework Laptop.
+the remaining steps are done on the specific Framework Laptop.
 
 1. Strip 3mm from each side of 60mm long, 30 AWG solid wire.
 2. Solder one side of the wire to the pad on the top of the PCB that is labelled 17.6V
 3. Apply a 10mm diameter disc of kapton tape on the top of the PCB, covering the pad and SMT parts
-4. Carefully remove the existing RTC battery from the Mainboard using a SIM eject tool
-5. Remove the protective black mylar from the Mainboard to the right of the RTC battery socket
-6. Solder the other end of the wire to the point marked in the image below
-7. Carefully insert the PCB into the RTC battery socket on the Mainboard
-8. Place the black mylar back on the Mainboard
+4. Follow the [step by step guide](https://guides.frame.work/Guide/RTC+Battery+Substitution+on+11th+Gen+Intel%C2%AE+Core%E2%84%A2/203) with photos and video for the remaining steps.
+
 
 ![rtc_rework_assembly](https://github.com/FrameworkComputer/RTCRework/assets/28994301/ef47ba6d-104f-4b66-9648-7e397f705647)
 
