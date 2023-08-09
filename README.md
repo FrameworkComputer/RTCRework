@@ -1,7 +1,17 @@
-# RTC Rework (Testing)
-** Note that this rework is still in testing, and the files are a release candidate version **
-
+# RTC Rework
 ![image](https://github.com/FrameworkComputer/RTCRework/assets/28994301/743a683b-725c-4fce-906b-da8bf186ab0a)
+
+## Requesting an RTC Battery Substitute module
+
+If you have an 11th Gen system or Mainboard, you can now [reach out to support](https://framework.kustomer.help/contact/support-request-ryon9uAuq) to request a free RTC Battery Substitute module. 
+To make the request process go smoothly, enter the email address that you ordered the 11th Gen product on and/or include photos of the system and Mainboard serial numbers.
+
+Note that there are no constraints making this request other than being an 11th Gen system or Mainboard owner (whether or not you are in warranty). 
+We ask that you really make sure you are comfortable with performing soldering on expensive electronics items before performing the installation, 
+as we won’t be able to provide advice or support around soldering or provide fixes for failed soldering attempts. 
+We also ask that you only make the request if you’ve faced needing to perform a Mainboard reset, as we want to avoid waste.
+
+## Details
 
 This is a "fake" ML1220 RTC Battery that can be inserted into an 11th Gen Intel Core Framework Laptop Mainboard as a
 replacement for a real ML1220.  There is a known issue on 11th Gen where RTC battery voltage dropping below a certain
