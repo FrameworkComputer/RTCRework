@@ -6,7 +6,7 @@
 If you have an 11th Gen system or Mainboard, you can now [reach out to support](https://framework.kustomer.help/contact/support-request-ryon9uAuq) to request a free RTC Battery Substitute module. 
 To make the request process go smoothly, enter the email address that you ordered the 11th Gen product on and/or include photos of the system and Mainboard serial numbers.
 
-Note that there are no constraints making this request other than being an 11th Gen system or Mainboard owner (whether or not you are in warranty). 
+Note that there are no constraints making this request other than being an 11th Gen system or Mainboard owner (whether or not you are in warranty), with the exception of those from Mystery Boxes. 
 We ask that you really make sure you are comfortable with performing soldering on expensive electronics items before performing the installation, 
 as we won’t be able to provide advice or support around soldering or provide fixes for failed soldering attempts. 
 We also ask that you only make the request if you’ve faced needing to perform a Mainboard reset, as we want to avoid waste.
